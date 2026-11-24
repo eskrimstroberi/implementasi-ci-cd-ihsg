@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Hasil pipeline lokal
+data/
+
+# Perkakas
+.pytest_cache/
+.ruff_cache/
+
+# Dokumen tugas tidak ikut di-commit
+*.docx
+*.pdf
